@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.io/Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/github.io/Portfolio/static/js/main.26d391dc.js",
-    "static/media/Digitalplantcare.png": "/github.io/Portfolio/static/media/Digitalplantcare.c76c4487fb7751345730.png",
-    "static/media/Portfolio.png": "/github.io/Portfolio/static/media/Portfolio.14bf8a09b1c2a06f582d.png",
-    "static/media/gojo.jpg": "/github.io/Portfolio/static/media/gojo.23fadea14f8fcec4c2da.jpg",
-    "static/media/Simongame.png": "/github.io/Portfolio/static/media/Simongame.a7e828b4e39ba6c24213.png",
-    "static/media/hacker.png": "/github.io/Portfolio/static/media/hacker.8722ca4b7ed9fbc19cc8.png",
-    "index.html": "/github.io/Portfolio/index.html",
-    "main.bf538fe7.css.map": "/github.io/Portfolio/static/css/main.bf538fe7.css.map",
-    "main.26d391dc.js.map": "/github.io/Portfolio/static/js/main.26d391dc.js.map"
+    "main.css": "/Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio/static/js/main.b6624993.js",
+    "static/media/Digitalplantcare.png": "/Portfolio/static/media/Digitalplantcare.c76c4487fb7751345730.png",
+    "static/media/Portfolio.png": "/Portfolio/static/media/Portfolio.14bf8a09b1c2a06f582d.png",
+    "static/media/gojo.jpg": "/Portfolio/static/media/gojo.23fadea14f8fcec4c2da.jpg",
+    "static/media/Simongame.png": "/Portfolio/static/media/Simongame.a7e828b4e39ba6c24213.png",
+    "static/media/hacker.png": "/Portfolio/static/media/hacker.8722ca4b7ed9fbc19cc8.png",
+    "index.html": "/Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
+    "main.b6624993.js.map": "/Portfolio/static/js/main.b6624993.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.26d391dc.js"
+    "static/js/main.b6624993.js"
   ]
 }
