@@ -14,7 +14,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Eswarpalipalli",
     resume:
-      "https://drive.google.com/file/d/1nKeGqFldpMNoWT3dQzZK_J9mLp-mLLtk/view?usp=drive_link",
+      "https://drive.google.com/file/d/1KGZBA8ATUL8dakfn2ES9C7jCBx_pW-k2/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/palipalli-eswar-726264255/",
     leetcode: "https://leetcode.com/u/Light_123/",
     codechef: "https://www.codechef.com/users/light134",
@@ -236,8 +236,8 @@ export const Bio = {
       tags: ["Java Script", "HTML", "CSS", "BOOTSTRAP","Icons","React"],
       category: "web app",
       image : Pf,
-      github: "https://github.com/Eswarpalipalli/Simon-Game",
-      webapp: "https://eswarpalipalli.github.io/Simon-Game/",
+      github: "https://github.com/Eswarpalipalli/Portfolio",
+      webapp: "https://eswarpalipalli.github.io/Portfolio/",
       member: [
         {
           name: "Eswar Palipalli",
